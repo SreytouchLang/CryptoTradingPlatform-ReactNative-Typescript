@@ -121,14 +121,6 @@ __tests__/
 
 ---
 
-## Diagrams (PNG)
-
-Download the combined diagrams image:
-
-- `bitgo_flows_combined_clean.png` (Architecture + Main Flow + Feature Flows)
-
----
-
 ## Key Flows (Interview-friendly)
 
 ### Trade: Quote → Place Order
