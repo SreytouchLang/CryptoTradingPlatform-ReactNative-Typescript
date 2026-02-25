@@ -157,21 +157,21 @@ __tests__/
 
 ### App Walkthrough (GIF)
 
-![App walkthrough](./ResultSrceenShort/Simulator Screen Recording - iPhone 16 Plus.gif)
+![App walkthrough](./ResultSrceenShort/SimulatorScreenRecording.gif)
 
 ### Key Screens
 
 | Screen | Screen |
 
 |---|---|
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.05.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.09.png) |
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.17.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.20.png) |
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.23.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.29.png) |
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.35.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.39.png) |
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.47.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.50.png) |
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.57.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.01.png) |
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.04.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.07.png) |
-| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.11.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.14.png) |
+| ![login](./ResultSrceenShort/16.38.05.png) | ![register](./ResultSrceenShort/16.38.09.png) |
+| ![custody-overview](./ResultSrceenShort/16.38.17.png) | ![custody-tranfers](./ResultSrceenShort/16.38.20.png) |
+| ![custody-tranfers](./ResultSrceenShort/16.38.23.png) | ![trand](./ResultSrceenShort/16.38.29.png) |
+| ![trand-detial](./ResultSrceenShort/16.38.35.png) | ![lending](./ResultSrceenShort/16.38.39.png) |
+| ![lending-detail](./ResultSrceenShort/16.38.47.png) | ![stacking](./ResultSrceenShort/16.38.50.png) |
+| ![liguidity](./ResultSrceenShort/16.38.57.png) | ![liguidity-detail](./ResultSrceenShort/16.39.01.png) |
+| ![setting](./ResultSrceenShort/16.39.04.png) | ![edit-profile](./ResultSrceenShort/16.39.07.png) |
+| ![update-password](./ResultSrceenShort/16.39.11.png) | ![logout](./ResultSrceenShort/16.39.14.png) |
 
 ### Architecture & Flow Diagrams
 
