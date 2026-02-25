@@ -34,7 +34,7 @@ type AuthUser = {
 };
 
 const users: AuthUser[] = [
-  { id: "usr_demo", name: "Demo User", email: "demo@Crypto.local", password: "password123" },
+  { id: "usr_demo", name: "Demo User", email: "demo@crypto.local", password: "password123" },
 ];
 
 function makeToken(email: string) {

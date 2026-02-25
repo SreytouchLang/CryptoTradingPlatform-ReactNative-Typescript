@@ -26,7 +26,7 @@ type Props = NativeStackScreenProps<AuthStackParamList, "Login">;
 export function LoginScreen({ navigation }: Props) {
     const setToken = useAuthStore((s) => s.setToken);
 
-    const [email, setEmail] = useState("demo@Crypto.local");
+    const [email, setEmail] = useState("demo@crypto.local");
     const [password, setPassword] = useState("password123");
     const [showPassword, setShowPassword] = useState(false);
     const [loading, setLoading] = useState(false);
@@ -162,7 +162,7 @@ export function LoginScreen({ navigation }: Props) {
                             <View style={styles.helpRow}>
                                 <Ionicons name="information-circle-outline" size={18} color="#2F6BFF" />
                                 <Text style={{ flex: 1, opacity: 0.7 }}>
-                                    Demo user: demo@Crypto.local / password123
+                                    Demo user: demo@crypto.local / password123
                                 </Text>
                             </View>
                         </View>

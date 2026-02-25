@@ -20,7 +20,7 @@ export function SettingsScreen() {
 
     // demo user profile (store later if you want)
     const [name, setName] = useState("Sreytouch Lang");
-    const [email, setEmail] = useState("demo@Crypto.local");
+    const [email, setEmail] = useState("demo@crypto.local");
 
     const [editOpen, setEditOpen] = useState(false);
     const [pwdOpen, setPwdOpen] = useState(false);
