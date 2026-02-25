@@ -157,37 +157,37 @@ __tests__/
 
 ### App Walkthrough (GIF)
 
-![App walkthrough](./ResultScreenShort/Simulator Screen Recording - iPhone 16 Plus.gif)
+![App walkthrough](./ResultSrceenShort/Simulator Screen Recording - iPhone 16 Plus.gif)
 
 ### Key Screens
 
 | Screen | Screen |
 
 |---|---|
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.05.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.09.png) |
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.17.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.20.png) |
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.23.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.29.png) |
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.35.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.39.png) |
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.47.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.50.png) |
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.57.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.01.png) |
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.04.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.07.png) |
-| ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.11.png) | ![](./ResultScreenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.14.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.05.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.09.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.17.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.20.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.23.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.29.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.35.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.39.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.47.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.50.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.38.57.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.01.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.04.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.07.png) |
+| ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.11.png) | ![](./ResultSrceenShort/Simulator Screenshot - iPhone 16 Plus - 2026-02-24 at 16.39.14.png) |
 
 ### Architecture & Flow Diagrams
 
-![Architecture Diagram](./ResultScreenShort/ArchitectureDiagram.png)
-![Main App Flow](./ResultScreenShort/MainAppFlow.png)
+![Architecture Diagram](./ResultSrceenShort/ArchitectureDiagram.png)
+![Main App Flow](./ResultSrceenShort/MainAppFlow.png)
 
-![Feature Flow Charts: Trand](./ResultScreenShort/FeatureFlowCharts.png)
-![Custody Transfers](./ResultScreenShort/CustodyTransfers.png)
-![Lending](./ResultScreenShort/Lending.png)
-![Liquidity (RFQ)](./ResultScreenShort/Liquidity(RFQ).png)
+![Feature Flow Charts: Trand](./ResultSrceenShort/FeatureFlowCharts.png)
+![Custody Transfers](./ResultSrceenShort/CustodyTransfers.png)
+![Lending](./ResultSrceenShort/Lending.png)
+![Liquidity (RFQ)](./ResultSrceenShort/Liquidity(RFQ).png)
 
 ### Notes / Project View
 
-![Notes](./ResultScreenShort/Screenshot 2026-02-24 at 2.32.10 PM.png)
+![Notes](./ResultSrceenShort/Screenshot 2026-02-24 at 2.32.10 PM.png)
 
-![Notes](./ResultScreenShort/Screenshot 2026-02-24 at 4.40.36 PM.png)
+![Notes](./ResultSrceenShort/Screenshot 2026-02-24 at 4.40.36 PM.png)
 
 ## Troubleshooting
 
