@@ -285,22 +285,6 @@ __tests__/
 </table>
 
 
-### Notes / Project View
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./ResultSrceenShort/2026-02-24.png" width="480" alt="Notes 1" /><br/>
-      <sub><b>Notes</b></sub>
-    </td>
-    <td align="center">
-      <img src="./ResultSrceenShort/2026-02-24.png" width="480" alt="Notes 2" /><br/>
-      <sub><b>Notes</b></sub>
-    </td>
-  </tr>
-</table>
-
-
 
 ## Troubleshooting
 
