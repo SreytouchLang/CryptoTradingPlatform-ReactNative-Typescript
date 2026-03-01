@@ -159,6 +159,7 @@ __tests__/
 
 ![App walkthrough](./ResultSrceenShort/SimulatorScreenRecording.gif)
 
+
 ### Key Screens
 
 | Screen | Screen |
@@ -248,6 +249,7 @@ __tests__/
   </tr>
 </table>
 
+
 ### Architecture & Flow Diagrams
 
 <table>
@@ -285,9 +287,20 @@ __tests__/
 
 ### Notes / Project View
 
-![Notes](./ResultSrceenShort/Screenshot 2026-02-24 at 2.32.10 PM.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/2026-02-24.png" width="480" alt="Notes 1" /><br/>
+      <sub><b>Notes</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/2026-02-24.png" width="480" alt="Notes 2" /><br/>
+      <sub><b>Notes</b></sub>
+    </td>
+  </tr>
+</table>
 
-![Notes](./ResultSrceenShort/Screenshot 2026-02-24 at 4.40.36 PM.png)
+
 
 ## Troubleshooting
 
