@@ -250,13 +250,38 @@ __tests__/
 
 ### Architecture & Flow Diagrams
 
-![Architecture Diagram](./ResultSrceenShort/ArchitectureDiagram.png)
-![Main App Flow](./ResultSrceenShort/MainAppFlow.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/ArchitectureDiagram.png" width="320" alt="Architecture Diagram" /><br/>
+      <sub><b>Architecture Diagram</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/MainAppFlow.png" width="320" alt="Main App Flow" /><br/>
+      <sub><b>Main App Flow</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/FeatureFlowCharts.png" width="320" alt="Feature Flow Charts: Trend" /><br/>
+      <sub><b>Feature Flow Charts: Trend</b></sub>
+    </td>
+  </tr>
 
-![Feature Flow Charts: Trand](./ResultSrceenShort/FeatureFlowCharts.png)
-![Custody Transfers](./ResultSrceenShort/CustodyTransfers.png)
-![Lending](./ResultSrceenShort/Lending.png)
-![Liquidity (RFQ)](./ResultSrceenShort/Liquidity(RFQ).png)
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/CustodyTransfers.png" width="320" alt="Custody Transfers" /><br/>
+      <sub><b>Custody Transfers</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/Lending.png" width="320" alt="Lending" /><br/>
+      <sub><b>Lending</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/Liquidity(RFQ).png" width="320" alt="Liquidity (RFQ)" /><br/>
+      <sub><b>Liquidity (RFQ)</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ### Notes / Project View
 
