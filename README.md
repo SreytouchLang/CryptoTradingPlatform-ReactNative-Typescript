@@ -162,16 +162,91 @@ __tests__/
 ### Key Screens
 
 | Screen | Screen |
+<table>
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.05.png" width="260" alt="login" /><br/>
+      <sub><b>Login</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.09.png" width="260" alt="register" /><br/>
+      <sub><b>Register</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.17.png" width="260" alt="custody-overview" /><br/>
+      <sub><b>Custody Overview</b></sub>
+    </td>
+  </tr>
 
-|---|---|
-| ![login](./ResultSrceenShort/16.38.05.png) | ![register](./ResultSrceenShort/16.38.09.png) |
-| ![custody-overview](./ResultSrceenShort/16.38.17.png) | ![custody-tranfers](./ResultSrceenShort/16.38.20.png) |
-| ![custody-tranfers](./ResultSrceenShort/16.38.23.png) | ![trand](./ResultSrceenShort/16.38.29.png) |
-| ![trand-detial](./ResultSrceenShort/16.38.35.png) | ![lending](./ResultSrceenShort/16.38.39.png) |
-| ![lending-detail](./ResultSrceenShort/16.38.47.png) | ![stacking](./ResultSrceenShort/16.38.50.png) |
-| ![liguidity](./ResultSrceenShort/16.38.57.png) | ![liguidity-detail](./ResultSrceenShort/16.39.01.png) |
-| ![setting](./ResultSrceenShort/16.39.04.png) | ![edit-profile](./ResultSrceenShort/16.39.07.png) |
-| ![update-password](./ResultSrceenShort/16.39.11.png) | ![logout](./ResultSrceenShort/16.39.14.png) |
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.20.png" width="260" alt="custody-transfers" /><br/>
+      <sub><b>Custody Transfers</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.23.png" width="260" alt="custody-transfers-2" /><br/>
+      <sub><b>Custody Transfers 2</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.29.png" width="260" alt="trend" /><br/>
+      <sub><b>Trend</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.35.png" width="260" alt="trend-detail" /><br/>
+      <sub><b>Trend Detail</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.39.png" width="260" alt="lending" /><br/>
+      <sub><b>Lending</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.47.png" width="260" alt="lending-detail" /><br/>
+      <sub><b>Lending Detail</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.50.png" width="260" alt="staking" /><br/>
+      <sub><b>Staking</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.38.57.png" width="260" alt="liquidity" /><br/>
+      <sub><b>Liquidity</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.39.01.png" width="260" alt="liquidity-detail" /><br/>
+      <sub><b>Liquidity Detail</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.39.04.png" width="260" alt="setting" /><br/>
+      <sub><b>Setting</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.39.07.png" width="260" alt="edit-profile" /><br/>
+      <sub><b>Edit Profile</b></sub>
+    </td>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.39.11.png" width="260" alt="update-password" /><br/>
+      <sub><b>Update Password</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./ResultSrceenShort/16.39.14.png" width="260" alt="logout" /><br/>
+      <sub><b>Logout</b></sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Architecture & Flow Diagrams
 
